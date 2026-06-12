@@ -1,0 +1,218 @@
+[
+ {
+  "utcDate": "2026-06-12T18:00:00Z",
+  "status": "FINISHED",
+  "stage": "GROUP_STAGE",
+  "homeTeam": {
+   "name": "Spain"
+  },
+  "awayTeam": {
+   "name": "Morocco"
+  },
+  "score": {
+   "winner": "HOME_TEAM",
+   "fullTime": {
+    "home": 3,
+    "away": 1
+   }
+  }
+ },
+ {
+  "utcDate": "2026-06-12T18:00:00Z",
+  "status": "FINISHED",
+  "stage": "GROUP_STAGE",
+  "homeTeam": {
+   "name": "Argentina"
+  },
+  "awayTeam": {
+   "name": "Japan"
+  },
+  "score": {
+   "winner": "DRAW",
+   "fullTime": {
+    "home": 2,
+    "away": 2
+   }
+  }
+ },
+ {
+  "utcDate": "2026-06-13T18:00:00Z",
+  "status": "FINISHED",
+  "stage": "GROUP_STAGE",
+  "homeTeam": {
+   "name": "France"
+  },
+  "awayTeam": {
+   "name": "Mexico"
+  },
+  "score": {
+   "winner": "HOME_TEAM",
+   "fullTime": {
+    "home": 1,
+    "away": 0
+   }
+  }
+ },
+ {
+  "utcDate": "2026-06-13T18:00:00Z",
+  "status": "FINISHED",
+  "stage": "GROUP_STAGE",
+  "homeTeam": {
+   "name": "Brazil"
+  },
+  "awayTeam": {
+   "name": "USA"
+  },
+  "score": {
+   "winner": "HOME_TEAM",
+   "fullTime": {
+    "home": 4,
+    "away": 2
+   }
+  }
+ },
+ {
+  "utcDate": "2026-06-14T18:00:00Z",
+  "status": "FINISHED",
+  "stage": "GROUP_STAGE",
+  "homeTeam": {
+   "name": "England"
+  },
+  "awayTeam": {
+   "name": "Netherlands"
+  },
+  "score": {
+   "winner": "DRAW",
+   "fullTime": {
+    "home": 0,
+    "away": 0
+   }
+  }
+ },
+ {
+  "utcDate": "2026-06-14T18:00:00Z",
+  "status": "FINISHED",
+  "stage": "GROUP_STAGE",
+  "homeTeam": {
+   "name": "Germany"
+  },
+  "awayTeam": {
+   "name": "Portugal"
+  },
+  "score": {
+   "winner": "AWAY_TEAM",
+   "fullTime": {
+    "home": 1,
+    "away": 3
+   }
+  }
+ },
+ {
+  "utcDate": "2026-06-17T18:00:00Z",
+  "status": "FINISHED",
+  "stage": "GROUP_STAGE",
+  "homeTeam": {
+   "name": "Spain"
+  },
+  "awayTeam": {
+   "name": "Japan"
+  },
+  "score": {
+   "winner": "HOME_TEAM",
+   "fullTime": {
+    "home": 2,
+    "away": 0
+   }
+  }
+ },
+ {
+  "utcDate": "2026-06-17T18:00:00Z",
+  "status": "FINISHED",
+  "stage": "GROUP_STAGE",
+  "homeTeam": {
+   "name": "Morocco"
+  },
+  "awayTeam": {
+   "name": "Argentina"
+  },
+  "score": {
+   "winner": "AWAY_TEAM",
+   "fullTime": {
+    "home": 1,
+    "away": 2
+   }
+  }
+ },
+ {
+  "utcDate": "2026-06-29T18:00:00Z",
+  "status": "FINISHED",
+  "stage": "LAST_32",
+  "homeTeam": {
+   "name": "Spain"
+  },
+  "awayTeam": {
+   "name": "USA"
+  },
+  "score": {
+   "winner": "HOME_TEAM",
+   "fullTime": {
+    "home": 2,
+    "away": 1
+   }
+  }
+ },
+ {
+  "utcDate": "2026-06-29T18:00:00Z",
+  "status": "FINISHED",
+  "stage": "LAST_32",
+  "homeTeam": {
+   "name": "Brazil"
+  },
+  "awayTeam": {
+   "name": "Netherlands"
+  },
+  "score": {
+   "winner": "AWAY_TEAM",
+   "fullTime": {
+    "home": 1,
+    "away": 1
+   }
+  }
+ },
+ {
+  "utcDate": "2026-06-30T18:00:00Z",
+  "status": "TIMED",
+  "stage": "LAST_32",
+  "homeTeam": {
+   "name": "France"
+  },
+  "awayTeam": {
+   "name": "Japan"
+  },
+  "score": {
+   "winner": null,
+   "fullTime": {
+    "home": null,
+    "away": null
+   }
+  }
+ },
+ {
+  "utcDate": "2026-07-04T18:00:00Z",
+  "status": "TIMED",
+  "stage": "LAST_16",
+  "homeTeam": {
+   "name": "Spain"
+  },
+  "awayTeam": {
+   "name": "Netherlands"
+  },
+  "score": {
+   "winner": null,
+   "fullTime": {
+    "home": null,
+    "away": null
+   }
+  }
+ }
+]

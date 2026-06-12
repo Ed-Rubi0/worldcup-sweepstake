@@ -1,0 +1,3 @@
+# Never commit your API key — set it in Streamlit Cloud's Secrets instead
+.streamlit/secrets.toml
+__pycache__/
